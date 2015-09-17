@@ -1,5 +1,6 @@
-describe("test should fail", function () {
-    it("failt", function () {
-        expect(add(1, 2)).toBe(3);
+describe("Features from ES6", function () {
+    it("should work", function () {
+        let {name} = getPerson();
+        expect(name).toBe("bar");
     });
 });
