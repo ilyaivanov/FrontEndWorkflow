@@ -1,0 +1,16 @@
+{
+  "name": "FrontEndWorkflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel": "^5.8.23"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Ivanov",
+  "license": "MIT"
+}
